@@ -6,7 +6,7 @@
 
 import numpy as np
 pi = np.pi
-radius = int(input("Give me the Radius of a circle please"))
+radius = int(input("Please put in your radius from your circle: "))
 def diameter(x):
     return 2*radius
 def area(x):
